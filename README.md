@@ -2,6 +2,8 @@
   Vm macOs usando QEMU
 </h1>
 
+## FORK DE https://github.com/DevCia/criar-vm-macOs-catalina-no-linux
+
 ## Info
 
 Tutorial de comandos de como criar uma vm do mac totalmente funcional podendo instalar o xcode, homebrew, emulador do iphone.Para fazer a instalação você precisa ter uma conexão de internet estável qualquer oscilação no ping vai interromper a instalação.
